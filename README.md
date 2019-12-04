@@ -3,7 +3,7 @@ Git/Github Intro ([Slides][slides])
 
 ADI Mentors Workshop
 
-December 3, 2019
+December 25, 2019
 
 Write a message here!
 ------------------------
